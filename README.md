@@ -69,7 +69,7 @@ Pontos Importantes para a Campanha:
      c.	Sempre pense na relação custo-benefício antes de se jogar em um pico. Pegar um tubo pode custar a sua perna, ou pior...
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-CAMPANHA FINAL
+PROPOSTA PARA A CAMPANHA FINAL
 
 Instrutor: Fala aí brotheri, beleza?
 
