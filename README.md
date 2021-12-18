@@ -95,4 +95,5 @@ Surfista: Como assim irmão? Dá para sentir cheiro embaixo d’água?
 
 Instrutor: ehhhhh.... Acredite, eles podem sentir uma gota de sangue a quilômetros de distância. Cara, curte seu surfe, mas não tente inovar. Se não tem NINGUÉM surfando em um pico com boas ondas, com certeza tem algo errado ali. É melhor encarar um “crowdzinho” do que se arriscar e acabar sendo atacado por um tubarão.
 BOAS ONDAS!!
-=======
+
+==========
