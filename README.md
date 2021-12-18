@@ -15,7 +15,7 @@ A proposta principal do projeto é desenvolver as habilidades necessárias para 
 assim, a ênfase do projeto é voltada para o Data Cleaning. A tabela para análise foi extraída da plataforma Kaggle e conta, inicialmente, 
 com mais de 600 mil elementos de informação.
 
-ANÁLISE DESCRITIVA
+ANÁLISE DESCRITIVA DOS DADOS
 
 A tabela inicial estava muita suja, com muitas informações nulas que inviabilizavam sua análise. O arquivo inicial apresentava 25723 linhas, dessas, 19421 estavam completamente vazias. 
  
