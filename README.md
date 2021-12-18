@@ -80,4 +80,5 @@ Instrutor: Tô falando, é o local com mais ataques de tubarões no mundo. Antes
 
 Surfista: Como assim irmão? Dá para sentir cheiro embaixo d’água?
 
-Instrutor: ... / Acredite, eles podem sentir uma gota de sangue a quilômetros de distância. Cara, curte seu surfe, mas não tente inovar. Se não tem ninguém surfando em um pico com boas ondas, com certeza tem algo errado. É melhor encarar um “crowdzinho” do que se arriscar ser atacado por um tubarão.
+Instrutor: Acredite, eles podem sentir uma gota de sangue a quilômetros de distância. Cara, curte seu surfe, mas não tente inovar. Se não tem ninguém surfando em um pico com boas ondas, com certeza tem algo errado ali. É melhor encarar um “crowdzinho” do que arriscar ser atacado por um tubarão.
+BOAS ONDAS!!
