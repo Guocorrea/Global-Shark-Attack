@@ -1,18 +1,21 @@
 # IronHack
-Trabalhos do curso de Data Analitycs da Iron Hack
+PROJETO 2 do curso de Data Analitycs da Iron Hack
 
 Nome do Projeto: Global Shark Attack
-Objetivo:
-1.	Utilizando python, limpar e analisar os dados de uma tabela sobre ataques tubarões no mundo. 
-2.	Buscar a partir desses dados responder uma pergunta que deve ser definida por pelo próprio aluno. Meu desafio será:
-a.	Definir a população que mais sofre ataque de tubarão para elaboração de uma campanha de MKT voltada a prevenção de ataques.
 
-Detalhes do projeto
+OBJETIVO:
+1.	Utilizando python, limpar e analisar os dados de uma tabela sobre ataques tubarões no mundo. 
+2.	Buscar a partir desses dados responder uma pergunta que deve ser definida por pelo próprio aluno. 
+3.	Meu desafio será: definir a população que mais sofre ataque de tubarão para elaboração de uma campanha de MKT voltada a prevenção de ataques.
+
+DETALHES DO PROJETO:
+
 A proposta principal do projeto é desenvolver as habilidades necessárias para entender uma tabela e extrair os dados úteis para uma análise, 
 assim, a ênfase do projeto é voltada para o Data Cleaning. A tabela para análise foi extraída da plataforma Kaggle e conta, inicialmente, 
 com mais de 600 mil elementos de informação.
 
-Análise Descritiva
+ANÁLISE DESCRITIVA
+
 A tabela inicial estava muita suja, com muitas informações nulas que inviabilizavam sua análise. O arquivo inicial apresentava 25723 linhas, dessas, 19421 estavam completamente vazias. 
  
 O arquivo conta com 24 colunas das quais 8 foram utilizadas para a análise final dos dados. Das colunas que foram excluídas, 10 não continham informações 
@@ -36,11 +39,20 @@ Olhando para os estados ao invés dos países, a Florida é o estado mais acomet
 
 Só por nota de curiosidade, nosso querido Brasil aparece na lista de localidades mais afetadas por ataques de tubarões. Boa Viagem, no Recife, garantiu a sétima colocação no ranking de localidades.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+REVENDO OS DADOS POPULACIONAIS DA AMOSTRA PARA UMA MARGEM DE 10 ANOS:
+
+Ao analisar os dados, percebi que existem dados que podem estar causando ruídos nos resultados. Como por exemplo, dados de 1748 e até mesmo um dado de antes de Cristo. Para termos certeza que nossos resultados são representativos para uma campanha de atual de MKT, vou reavaliar os dados utilizando uma máscara para filtrar apenas os ataques de 1997 até 2018.
+
+Não mudou nada, os ataques em indivíduos entre 14 e 26 anos totalizam 38% dos dados. O surfe continua sendo em disparada a principal atividade relacionada com os ataques, tendo mais do que o dobro de casos do que o segundo colocado, nadadores. E a Florida continua liderando os ataques pelo mundo, tendo quase 4x mais casos de ataques dos nossos amigos ‘boca cheia de dentes’ do que New South Wales, Austrália.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 COMO CRIAR UMA COMUNICAÇÃO PARA PREVINIR OS ATAQUES DE TUBARÕES?
 
 Definindo a População alvo para a campanha:
-	- Nossa campanha precisa estar voltada para o público masculino, entre 14 e 25 anos que gostam de esportes de aventura.
-	- Os pontos com mais ataques de tubarões se encontram em regiões onde as ondas são constantes e a prática do surfe é uma tradição. Esses locais normalmente são muito visados para Surf Trip´s. Assim, o foco da campanha deve estar voltado não para os locais que conhecem a região e seus perigos, mas sim para estrangeiros que se aventuram nessas regiões em busca de um ambiente favorável à prática esportiva.
+
+- Nossa campanha precisa estar voltada para o público masculino, entre 14 e 25 anos que gostam de esportes de aventura.
+- Os pontos com mais ataques de tubarões se encontram em regiões onde as ondas são constantes e a prática do surfe é uma tradição. Esses locais normalmente são muito visados para Surf Trip´s. Assim, o foco da campanha deve estar voltado não para os locais que conhecem a região e seus perigos, mas sim para estrangeiros que se aventuram nessas regiões em busca de um ambiente favorável à prática esportiva.
 
 Casos sobre a imprudência da nossa população que podem ajudar no direcionamento da campanha:
 1.	Um jovem Australiano chamado Harrison, que andava de barco com seus amigos avistou uma baleia boiando no meio do mar. O jovem “gênio” não hesitou e pulou no mar para ‘surfar’ na baleia que ele achou que estava machucada. A inteligência em forma de gente escalou a baleia e fingiu que estava surfando. O que ele não percebeu, é que era a carcaça de uma baleia morta, que estava sendo devorada por dezenas de tubarões. Ao perceber a besteira que fez ficou lá, sentado na baleia até a guarda costeira se aproximar e tirar em segurança de cima do animal morto! Parabéns, Harrison!!
@@ -56,7 +68,7 @@ Pontos Importantes para a Campanha:
      b.	Converse com locais sobre os principais picos, às vezes o melhor pico é também o mais perigoso.
      
      c.	Sempre pense na relação custo-benefício antes de se jogar em um pico. Pegar um tubo pode custar a sua perna, ou pior...
-     
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 CAMPANHA FINAL
 
@@ -80,5 +92,5 @@ Instrutor: Tô falando, é o local com mais ataques de tubarões no mundo. Antes
 
 Surfista: Como assim irmão? Dá para sentir cheiro embaixo d’água?
 
-Instrutor: Acredite, eles podem sentir uma gota de sangue a quilômetros de distância. Cara, curte seu surfe, mas não tente inovar. Se não tem ninguém surfando em um pico com boas ondas, com certeza tem algo errado ali. É melhor encarar um “crowdzinho” do que arriscar ser atacado por um tubarão.
+Instrutor: Acredite, eles podem sentir uma gota de sangue a quilômetros de distância. Cara, curte seu surfe, mas não tente inovar. Se não tem NINGUÉM surfando em um pico com boas ondas, com certeza tem algo errado ali. É melhor encarar um “crowdzinho” do que arriscar ser atacado por um tubarão.
 BOAS ONDAS!!
