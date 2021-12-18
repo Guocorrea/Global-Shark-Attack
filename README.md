@@ -1,6 +1,6 @@
 <<<<<<< Updated upstream
 # Projeto 2 - Global Shark Attack
-PROJETO do curso de Data Analitycs da Iron Hack
+Projeto do curso de Data Analitycs da Iron Hack
 
 OBJETIVO:
 1.	Utilizando python, limpar e analisar os dados de uma tabela sobre ataques tubarões no mundo. 
