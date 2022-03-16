@@ -67,31 +67,5 @@ Pontos Importantes para a Campanha:
      b.	Converse com locais sobre os principais picos, às vezes o melhor pico é também o mais perigoso.
      
      c.	Sempre pense na relação custo-benefício antes de se jogar em um pico. Pegar um tubo pode custar a sua perna, ou pior...
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-PROPOSTA PARA A CAMPANHA FINAL
-
-Instrutor: Fala aí brotheri, beleza?
-
-Surfista: Ahn?
-
-Instrutor: É! Você mesmo! Tá indo fazer uma Surf Trip na Florida?
-
-Surfista: Só... Vai ser irado!
-
-Instrutor: Já se preparou para chegar nos melhores picos com segurança?
-
-Surfista: Ihhh cara, surfo desde mlk. O surf tá na veia, é só cair no mar que eu faço o resto!
-
-Instrutor: Não tenho dúvida disso, mas você sabia que a costa da Florida é a costa com a maior concentração de tubarões no mundo?
-
-Surfista: Oi?
-
-Instrutor: Tô falando, é o local com mais ataques de tubarões no mundo. Antes de cair no mar, troca uma ideia com os locais para saber se está com alerta de tubarão na região. E nunca caia na água dessa região se estiver com um corte ou algum tipo de sangramento. Tubarões sente cheiro do sangue e vão atrás.
-
-Surfista: Como assim irmão? Dá para sentir cheiro embaixo d’água?
-
-Instrutor: ehhhhh.... Acredite, eles podem sentir uma gota de sangue a quilômetros de distância. Cara, curte seu surfe, mas não tente inovar. Se não tem NINGUÉM surfando em um pico com boas ondas, com certeza tem algo errado ali. É melhor encarar um “crowdzinho” do que se arriscar e acabar sendo atacado por um tubarão.
-BOAS ONDAS!!
 
 ==========
