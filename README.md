@@ -1,6 +1,6 @@
 <<<<<<< Updated upstream
 # Projeto 2 - Global Shark Attack
-Projeto do curso de Data Analitycs da Iron Hack
+Análise regional e populacional dos ataques de tubarão no mundo. Determinando uma população para campanha de prevenção à ataques.
 
 OBJETIVO:
 1.	Utilizando python, limpar e analisar os dados de uma tabela sobre ataques tubarões no mundo. 
